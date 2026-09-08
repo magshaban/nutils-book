@@ -6,6 +6,11 @@ please send the DOI to [info@nutils.org](mailto:info@nutils.org) or submit a
 [pull request](https://github.com/evalf/nutils-book) with the new entry.
 Articles that [cite Nutils](science-citing.md) will be picked up automatically.
 
+## 2026
+- [Modeling the copying accuracy of two-dimensional holographic gratings in photopolymer media](https://doi.org/10.1364/JOSAB.599552)
+  by Maged Shaban, Dana Mackey, Owen Kearney and Izabela Naydenova, May 2026.
+
+
 ## 2025
 
 - [Application of Backward Differential Formula and Anderson’s method for multigroup diffusion transient equation](https://doi.org/10.1016/j.anucene.2024.110837)
